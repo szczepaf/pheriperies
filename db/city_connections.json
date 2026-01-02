@@ -1,0 +1,773 @@
+{"data":
+    [{
+    "name": "Benešov",
+    "population": 17043,
+    "regional_city": "Praha",
+    "distance": 39
+},
+{
+    "name": "Beroun",
+    "population": 21521,
+    "regional_city": "Praha",
+    "distance": 44
+},
+{
+    "name": "Brandýs nad Labem-Stará Boleslav",
+    "population": 20313,
+    "regional_city": "Praha",
+    "distance": 64
+},
+{
+    "name": "Domažlice",
+    "population": 11133,
+    "regional_city": "Plzeň",
+    "distance": 46
+},
+{
+    "name": "Aš",
+    "population": 12684,
+    "regional_city": "Karlovy Vary",
+    "distance": 77
+},
+{
+    "name": "Cheb",
+    "population": 32808,
+    "regional_city": "Karlovy Vary",
+    "distance": 40
+},
+{
+    "name": "Chodov",
+    "population": 12609,
+    "regional_city": "Karlovy Vary",
+    "distance": 10
+},
+{
+    "name": "Děčín",
+    "population": 46376,
+    "regional_city": "Ústí nad Labem",
+    "distance": 15
+},
+{
+    "name": "Chomutov",
+    "population": 46771,
+    "regional_city": "Karlovy Vary",
+    "distance": 53
+},
+{
+    "name": "Bílina",
+    "population": 14497,
+    "regional_city": "Ústí nad Labem",
+    "distance": 29
+},
+{
+    "name": "Dvůr Králové nad Labem",
+    "population": 15322,
+    "regional_city": "Hradec Králové",
+    "distance": 27
+},
+{
+    "name": "Chrudim",
+    "population": 23564,
+    "regional_city": "Pardubice",
+    "distance": 17
+},
+{
+    "name": "Blansko",
+    "population": 20002,
+    "regional_city": "Brno",
+    "distance": 20
+},
+{
+    "name": "Boskovice",
+    "population": 12508,
+    "regional_city": "Brno",
+    "distance": 43
+},
+{
+    "name": "Brno",
+    "population": 402739,
+    "regional_city": "Brno",
+    "distance": 0.0
+},
+{
+    "name": "Břeclav",
+    "population": 24538,
+    "regional_city": "Brno",
+    "distance": 29
+},
+{
+    "name": "Bruntál",
+    "population": 15037,
+    "regional_city": "Olomouc",
+    "distance": 78
+},
+{
+    "name": "Frýdek-Místek",
+    "population": 53590,
+    "regional_city": "Ostrava",
+    "distance": 26
+},
+{
+    "name": "Bohumín",
+    "population": 20315,
+    "regional_city": "Ostrava",
+    "distance": 5
+},
+{
+    "name": "Frenštát pod Radhoštěm",
+    "population": 10554,
+    "regional_city": "Ostrava",
+    "distance": 75
+},
+{
+    "name": "Praha",
+    "population": 1397880,
+    "regional_city": "Praha",
+    "distance": 0.0
+},
+{
+    "name": "Králův Dvůr",
+    "population": 10598,
+    "regional_city": "Praha",
+    "distance": 51
+},
+{
+    "name": "Kladno",
+    "population": 69664,
+    "regional_city": "Praha",
+    "distance": 22
+},
+{
+    "name": "Kolín",
+    "population": 33444,
+    "regional_city": "Pardubice",
+    "distance": 19
+},
+{
+    "name": "Kutná Hora",
+    "population": 21642,
+    "regional_city": "Pardubice",
+    "distance": 37
+},
+{
+    "name": "Kralupy nad Vltavou",
+    "population": 19005,
+    "regional_city": "Praha",
+    "distance": 32
+},
+{
+    "name": "Mělník",
+    "population": 20278,
+    "regional_city": "Ústí nad Labem",
+    "distance": 57
+},
+{
+    "name": "Neratovice",
+    "population": 16360,
+    "regional_city": "Praha",
+    "distance": 33
+},
+{
+    "name": "Vlašim",
+    "population": 11434,
+    "regional_city": "Praha",
+    "distance": 80
+},
+{
+    "name": "Slaný",
+    "population": 16937,
+    "regional_city": "Praha",
+    "distance": 68
+},
+{
+    "name": "Rakovník",
+    "population": 15682,
+    "regional_city": "Praha",
+    "distance": 87
+},
+{
+    "name": "Strakonice",
+    "population": 22355,
+    "regional_city": "České Budějovice",
+    "distance": 48
+},
+{
+    "name": "Tábor",
+    "population": 34356,
+    "regional_city": "České Budějovice",
+    "distance": 36
+},
+{
+    "name": "Sušice",
+    "population": 10740,
+    "regional_city": "Plzeň",
+    "distance": 83
+},
+{
+    "name": "Rokycany",
+    "population": 14381,
+    "regional_city": "Plzeň",
+    "distance": 10
+},
+{
+    "name": "Tachov",
+    "population": 14097,
+    "regional_city": "Plzeň",
+    "distance": 70
+},
+{
+    "name": "Sokolov",
+    "population": 22007,
+    "regional_city": "Karlovy Vary",
+    "distance": 17
+},
+{
+    "name": "Rumburk",
+    "population": 10815,
+    "regional_city": "Ústí nad Labem",
+    "distance": 95
+},
+{
+    "name": "Čáslav",
+    "population": 10399,
+    "regional_city": "Pardubice",
+    "distance": 46
+},
+{
+    "name": "Mladá Boleslav",
+    "population": 47346,
+    "regional_city": "Liberec",
+    "distance": 70
+},
+{
+    "name": "Lysá nad Labem",
+    "population": 10004,
+    "regional_city": "Praha",
+    "distance": 38
+},
+{
+    "name": "Milovice",
+    "population": 14270,
+    "regional_city": "Praha",
+    "distance": 48
+},
+{
+    "name": "Nymburk",
+    "population": 15642,
+    "regional_city": "Praha",
+    "distance": 40
+},
+{
+    "name": "Poděbrady",
+    "population": 15232,
+    "regional_city": "Pardubice",
+    "distance": 42
+},
+{
+    "name": "Čelákovice",
+    "population": 12474,
+    "regional_city": "Praha",
+    "distance": 30
+},
+{
+    "name": "Říčany",
+    "population": 17143,
+    "regional_city": "Praha",
+    "distance": 27
+},
+{
+    "name": "Příbram",
+    "population": 32773,
+    "regional_city": "Plzeň",
+    "distance": 73
+},
+{
+    "name": "České Budějovice",
+    "population": 97231,
+    "regional_city": "České Budějovice",
+    "distance": 0.0
+},
+{
+    "name": "Český Krumlov",
+    "population": 12797,
+    "regional_city": "České Budějovice",
+    "distance": 35
+},
+{
+    "name": "Jindřichův Hradec",
+    "population": 20540,
+    "regional_city": "České Budějovice",
+    "distance": 56
+},
+{
+    "name": "Písek",
+    "population": 31121,
+    "regional_city": "České Budějovice",
+    "distance": 44
+},
+{
+    "name": "Prachatice",
+    "population": 11119,
+    "regional_city": "České Budějovice",
+    "distance": 70
+},
+{
+    "name": "Klatovy",
+    "population": 22763,
+    "regional_city": "Plzeň",
+    "distance": 49
+},
+{
+    "name": "Plzeň",
+    "population": 187928,
+    "regional_city": "Plzeň",
+    "distance": 0.0
+},
+{
+    "name": "Mariánské Lázně",
+    "population": 14052,
+    "regional_city": "Plzeň",
+    "distance": 57
+},
+{
+    "name": "Karlovy Vary",
+    "population": 49073,
+    "regional_city": "Karlovy Vary",
+    "distance": 0.0
+},
+{
+    "name": "Varnsdorf",
+    "population": 14704,
+    "regional_city": "Liberec",
+    "distance": 86
+},
+{
+    "name": "Jirkov",
+    "population": 19240,
+    "regional_city": "Karlovy Vary",
+    "distance": 89
+},
+{
+    "name": "Kadaň",
+    "population": 18090,
+    "regional_city": "Karlovy Vary",
+    "distance": 59
+},
+{
+    "name": "Klášterec nad Ohří",
+    "population": 14068,
+    "regional_city": "Karlovy Vary",
+    "distance": 37
+},
+{
+    "name": "Roudnice nad Labem",
+    "population": 12668,
+    "regional_city": "Ústí nad Labem",
+    "distance": 25
+},
+
+{
+    "name": "Louny",
+    "population": 18068,
+    "regional_city": "Ústí nad Labem",
+    "distance": 76
+},
+
+{
+    "name": "Litvínov",
+    "population": 22387,
+    "regional_city": "Ústí nad Labem",
+    "distance": 40
+},
+{
+    "name": "Most",
+    "population": 63474,
+    "regional_city": "Ústí nad Labem",
+    "distance": 41
+},
+{
+    "name": "Teplice",
+    "population": 50912,
+    "regional_city": "Ústí nad Labem",
+    "distance": 16
+},
+{
+    "name": "Ústí nad Labem",
+    "population": 90866,
+    "regional_city": "Ústí nad Labem",
+    "distance": 0.0
+},
+{
+    "name": "Česká Lípa",
+    "population": 36815,
+    "regional_city": "Ústí nad Labem",
+    "distance": 51
+},
+{
+    "name": "Nový Bor",
+    "population": 11318,
+    "regional_city": "Ústí nad Labem",
+    "distance": 70
+},
+{
+    "name": "Jablonec nad Nisou",
+    "population": 46209,
+    "regional_city": "Liberec",
+    "distance": 20
+},
+{
+    "name": "Liberec",
+    "population": 108090,
+    "regional_city": "Liberec",
+    "distance": 0.0
+},
+{
+    "name": "Turnov",
+    "population": 14577,
+    "regional_city": "Liberec",
+    "distance": 32
+},
+{
+    "name": "Hradec Králové",
+    "population": 94311,
+    "regional_city": "Hradec Králové",
+    "distance": 0.0
+},
+{
+    "name": "Jičín",
+    "population": 16101,
+    "regional_city": "Hradec Králové",
+    "distance": 77
+},
+{
+    "name": "Jaroměř",
+    "population": 12483,
+    "regional_city": "Hradec Králové",
+    "distance": 13
+},
+{
+    "name": "Náchod",
+    "population": 19827,
+    "regional_city": "Hradec Králové",
+    "distance": 50
+},
+{
+    "name": "Rychnov nad Kněžnou",
+    "population": 11420,
+    "regional_city": "Hradec Králové",
+    "distance": 46
+},
+{
+    "name": "Pardubice",
+    "population": 92319,
+    "regional_city": "Pardubice",
+    "distance": 0.0
+},
+{
+    "name": "Přelouč",
+    "population": 10203,
+    "regional_city": "Pardubice",
+    "distance": 7
+},
+{
+    "name": "Svitavy",
+    "population": 16073,
+    "regional_city": "Pardubice",
+    "distance": 44
+},
+{
+    "name": "Česká Třebová",
+    "population": 15010,
+    "regional_city": "Pardubice",
+    "distance": 32
+},
+{
+    "name": "Ústí nad Orlicí",
+    "population": 14011,
+    "regional_city": "Pardubice",
+    "distance": 24
+},
+{
+    "name": "Vysoké Mýto",
+    "population": 12560,
+    "regional_city": "Pardubice",
+    "distance": 33
+},
+{
+    "name": "Havlíčkův Brod",
+    "population": 23791,
+    "regional_city": "Jihlava",
+    "distance": 19
+},
+{
+    "name": "Jihlava",
+    "population": 54624,
+    "regional_city": "Jihlava",
+    "distance": 0.0
+},
+{
+    "name": "Humpolec",
+    "population": 11522,
+    "regional_city": "Jihlava",
+    "distance": 68
+},
+{
+    "name": "Pelhřimov",
+    "population": 16206,
+    "regional_city": "Jihlava",
+    "distance": 67
+},
+{
+    "name": "Třebíč",
+    "population": 34530,
+    "regional_city": "Jihlava",
+    "distance": 50
+},
+{
+    "name": "Velké Meziříčí",
+    "population": 11608,
+    "regional_city": "Brno",
+    "distance": 82
+},
+{
+    "name": "Žďár nad Sázavou",
+    "population": 20404,
+    "regional_city": "Jihlava",
+    "distance": 54
+},
+{
+    "name": "Kuřim",
+    "population": 11860,
+    "regional_city": "Brno",
+    "distance": 20
+},
+{
+    "name": "Hodonín",
+    "population": 23517,
+    "regional_city": "Brno",
+    "distance": 44
+},
+{
+    "name": "Kyjov",
+    "population": 10645,
+    "regional_city": "Brno",
+    "distance": 65
+},
+{
+    "name": "Veselí nad Moravou",
+    "population": 10623,
+    "regional_city": "Zlín",
+    "distance": 65
+},
+{
+    "name": "Vyškov",
+    "population": 20645,
+    "regional_city": "Brno",
+    "distance": 35
+},
+{
+    "name": "Znojmo",
+    "population": 34172,
+    "regional_city": "Brno",
+    "distance": 122
+},
+{
+    "name": "Litomyšl",
+    "population": 10448,
+    "regional_city": "Pardubice",
+    "distance": 89
+},
+{    "name": "Olomouc",
+    "population": 103063,
+    "regional_city": "Olomouc",
+    "distance": 0.0
+},
+{
+    "name": "Uničov",
+    "population": 11237,
+    "regional_city": "Olomouc",
+    "distance": 20
+},
+{
+    "name": "Prostějov",
+    "population": 43408,
+    "regional_city": "Olomouc",
+    "distance": 16
+},
+{
+    "name": "Přerov",
+    "population": 40906,
+    "regional_city": "Olomouc",
+    "distance": 12
+},
+{
+    "name": "Šumperk",
+    "population": 24735,
+    "regional_city": "Olomouc",
+    "distance": 46
+},
+
+{"name": "Holešov",
+    "population": 11616,
+    "regional_city": "Olomouc",
+    "distance": 37
+},
+{
+    "name": "Kroměříž",
+    "population": 27917,
+    "regional_city": "Olomouc",
+    "distance": 35
+},{
+    "name": "Rožnov pod Radhoštěm",
+    "population": 16063,
+    "regional_city": "Olomouc",
+    "distance": 76
+},
+{
+    "name": "Valašské Meziříčí",
+    "population": 22580,
+    "regional_city": "Olomouc",
+    "distance": 51
+},
+{
+    "name": "Vsetín",
+    "population": 25185,
+    "regional_city": "Olomouc",
+    "distance": 69
+},
+{
+    "name": "Otrokovice",
+    "population": 17401,
+    "regional_city": "Zlín",
+    "distance": 13
+},
+{
+    "name": "Zlín",
+    "population": 74684,
+    "regional_city": "Zlín",
+    "distance": 0.0
+},
+{
+    "name": "Krnov",
+    "population": 22518,
+    "regional_city": "Ostrava",
+    "distance": 51
+},
+{
+    "name": "Třinec",
+    "population": 33852,
+    "regional_city": "Ostrava",
+    "distance": 40
+},
+{
+    "name": "Český Těšín",
+    "population": 23075,
+    "regional_city": "Ostrava",
+    "distance": 32
+},
+{
+    "name": "Havířov",
+    "population": 68674,
+    "regional_city": "Ostrava",
+    "distance": 19
+},
+{
+    "name": "Karviná",
+    "population": 48937,
+    "regional_city": "Ostrava",
+    "distance": 17
+},
+{
+    "name": "Kopřivnice",
+    "population": 21374,
+    "regional_city": "Ostrava",
+    "distance": 37
+},
+{
+    "name": "Nový Jičín",
+    "population": 23005,
+    "regional_city": "Ostrava",
+    "distance": 35
+},
+{
+    "name": "Hlučín",
+    "population": 13352,
+    "regional_city": "Ostrava",
+    "distance": 80
+},
+{
+    "name": "Opava",
+    "population": 55109,
+    "regional_city": "Ostrava",
+    "distance": 20
+},
+{
+    "name": "Ostrava",
+    "population": 283187,
+    "regional_city": "Ostrava",
+    "distance": 0.0
+},
+{
+    "name": "Jeseník",
+    "population": 10456,
+    "regional_city": "Olomouc",
+    "distance": 120
+},
+{
+    "name": "Šternberk",
+    "population": 13239,
+    "regional_city": "Olomouc",
+    "distance": 8
+},
+{
+    "name": "Zábřeh",
+    "population": 13320,
+    "regional_city": "Olomouc",
+    "distance": 20
+},
+{
+    "name": "Uherské Hradiště",
+    "population": 24887,
+    "regional_city": "Zlín",
+    "distance": 43
+},
+{
+    "name": "Uherský Brod",
+    "population": 16367,
+    "regional_city": "Zlín",
+    "distance": 66
+},
+{
+    "name": "Žatec",
+    "population": 18959,
+    "regional_city": "Ústí nad Labem",
+    "distance": 84
+},{
+    "name": "Krupka",
+    "population": 12793,
+    "regional_city": "Ústí nad Labem",
+    "distance": 14
+},
+{
+    "name": "Vrchlabí",
+    "population": 12102,
+    "regional_city": "Hradec Králové",
+    "distance": 110
+},
+{
+    "name": "Hranice",
+    "population": 17969,
+    "regional_city": "Olomouc",
+    "distance": 28},
+
+{    "name": "Jesenice",
+    "population": 10460,
+    "regional_city": "None",
+    "distance": 0
+},
+{    "name": "Orlová",
+    "population": 27540,
+    "regional_city": "None",
+    "distance": 0
+    }
+]}

@@ -1,0 +1,2455 @@
+{
+    "data": [
+        {
+            "name": "Praha",
+            "population": 1397880,
+            "connections": {
+                "Praha": 0,
+                "Brno": 150,
+                "Ostrava": 193,
+                "Plzeň": 83,
+                "Liberec": 151,
+                "Olomouc": 132,
+                "Ústí nad Labem": 69,
+                "Hradec Králové": 85,
+                "Pardubice": 55,
+                "Zlín": 194,
+                "České Budějovice": 95,
+                "Jihlava": 134,
+                "Karlovy Vary": 194
+            }
+        },
+        {
+            "name": "Benešov",
+            "population": 17043,
+            "connections": {
+                "Praha": 39,
+                "Brno": 195,
+                "Ostrava": 251,
+                "Plzeň": 147,
+                "Liberec": 200,
+                "Olomouc": 188,
+                "Ústí nad Labem": 129,
+                "Hradec Králové": 141,
+                "Pardubice": 100,
+                "Zlín": 254,
+                "České Budějovice": 78,
+                "Jihlava": 169,
+                "Karlovy Vary": 256
+            }
+        },
+        {
+            "name": "Beroun",
+            "population": 21521,
+            "connections": {
+                "Praha": 44,
+                "Brno": 217,
+                "Ostrava": 264,
+                "Plzeň": 45,
+                "Liberec": 223,
+                "Olomouc": 195,
+                "Ústí nad Labem": 121,
+                "Hradec Králové": 138,
+                "Pardubice": 114,
+                "Zlín": 264,
+                "České Budějovice": 152,
+                "Jihlava": 194,
+                "Karlovy Vary": 210
+            }
+        },
+        {
+            "name": "Vlašim",
+            "population": 11434,
+            "connections": {
+                "Praha": 80,
+                "Brno": 236,
+                "Ostrava": 294,
+                "Plzeň": 188,
+                "Liberec": 243,
+                "Olomouc": 229,
+                "Ústí nad Labem": 172,
+                "Hradec Králové": 173,
+                "Pardubice": 141,
+                "Zlín": 317,
+                "České Budějovice": 119,
+                "Jihlava": 208,
+                "Karlovy Vary": 297
+            }
+        },
+        {
+            "name": "Králův Dvůr",
+            "population": 10598,
+            "connections": {
+                "Praha": 58,
+                "Brno": 236,
+                "Ostrava": 299,
+                "Plzeň": 56,
+                "Liberec": 250,
+                "Olomouc": 225,
+                "Ústí nad Labem": 158,
+                "Hradec Králové": 163,
+                "Pardubice": 132,
+                "Zlín": 291,
+                "České Budějovice": 170,
+                "Jihlava": 213,
+                "Karlovy Vary": 230
+            }
+        },
+        {
+            "name": "Kladno",
+            "population": 69664,
+            "connections": {
+                "Praha": 26,
+                "Brno": 212,
+                "Ostrava": 259,
+                "Plzeň": 140,
+                "Liberec": 196,
+                "Olomouc": 199,
+                "Ústí nad Labem": 98,
+                "Hradec Králové": 152,
+                "Pardubice": 117,
+                "Zlín": 272,
+                "České Budějovice": 159,
+                "Jihlava": 188,
+                "Karlovy Vary": 184
+            }
+        },
+        {
+            "name": "Klášterec nad Ohří",
+            "population": 14068,
+            "connections": {
+                "Praha": 156,
+                "Brno": 332,
+                "Ostrava": 355,
+                "Plzeň": 159,
+                "Liberec": 219,
+                "Olomouc": 292,
+                "Ústí nad Labem": 80,
+                "Hradec Králové": 303,
+                "Pardubice": 220,
+                "Zlín": 380,
+                "České Budějovice": 280,
+                "Jihlava": 335,
+                "Karlovy Vary": 37
+            }
+        },
+        {
+            "name": "Bílina",
+            "population": 14497,
+            "connections": {
+                "Praha": 105,
+                "Brno": 281,
+                "Ostrava": 304,
+                "Plzeň": 196,
+                "Liberec": 168,
+                "Olomouc": 262,
+                "Ústí nad Labem": 29,
+                "Hradec Králové": 228,
+                "Pardubice": 180,
+                "Zlín": 329,
+                "České Budějovice": 238,
+                "Jihlava": 296,
+                "Karlovy Vary": 90
+            }
+        },
+        {
+            "name": "Teplice",
+            "population": 50912,
+            "connections": {
+                "Praha": 92,
+                "Brno": 268,
+                "Ostrava": 291,
+                "Plzeň": 187,
+                "Liberec": 155,
+                "Olomouc": 228,
+                "Ústí nad Labem": 16,
+                "Hradec Králové": 215,
+                "Pardubice": 167,
+                "Zlín": 316,
+                "České Budějovice": 222,
+                "Jihlava": 253,
+                "Karlovy Vary": 102
+            }
+        },
+        {
+            "name": "Svitavy",
+            "population": 16073,
+            "connections": {
+                "Praha": 112,
+                "Brno": 57,
+                "Ostrava": 133,
+                "Plzeň": 215,
+                "Liberec": 228,
+                "Olomouc": 67,
+                "Ústí nad Labem": 199,
+                "Hradec Králové": 80,
+                "Pardubice": 44,
+                "Zlín": 149,
+                "České Budějovice": 236,
+                "Jihlava": 201,
+                "Karlovy Vary": 355
+            }
+        },
+        {
+            "name": "Kyjov",
+            "population": 10645,
+            "connections": {
+                "Praha": 227,
+                "Brno": 65,
+                "Ostrava": 149,
+                "Plzeň": 330,
+                "Liberec": 325,
+                "Olomouc": 108,
+                "Ústí nad Labem": 314,
+                "Hradec Králové": 204,
+                "Pardubice": 163,
+                "Zlín": 88,
+                "České Budějovice": 327,
+                "Jihlava": 194,
+                "Karlovy Vary": 439
+            }
+        },
+        {
+            "name": "Krnov",
+            "population": 22518,
+            "connections": {
+                "Praha": 268,
+                "Brno": 213,
+                "Ostrava": 51,
+                "Plzeň": 352,
+                "Liberec": 405,
+                "Olomouc": 107,
+                "Ústí nad Labem": 361,
+                "Hradec Králové": 227,
+                "Pardubice": 198,
+                "Zlín": 183,
+                "České Budějovice": 378,
+                "Jihlava": 257,
+                "Karlovy Vary": 539
+            }
+        },
+        {
+            "name": "Louny",
+            "population": 18068,
+            "connections": {
+                "Praha": 122,
+                "Brno": 309,
+                "Ostrava": 343,
+                "Plzeň": 153,
+                "Liberec": 207,
+                "Olomouc": 279,
+                "Ústí nad Labem": 61,
+                "Hradec Králové": 233,
+                "Pardubice": 201,
+                "Zlín": 355,
+                "České Budějovice": 240,
+                "Jihlava": 299,
+                "Karlovy Vary": 129
+            }
+        },
+        {
+            "name": "Most",
+            "population": 63474,
+            "connections": {
+                "Praha": 117,
+                "Brno": 293,
+                "Ostrava": 342,
+                "Plzeň": 162,
+                "Liberec": 180,
+                "Olomouc": 253,
+                "Ústí nad Labem": 41,
+                "Hradec Králové": 240,
+                "Pardubice": 181,
+                "Zlín": 366,
+                "České Budějovice": 263,
+                "Jihlava": 291,
+                "Karlovy Vary": 77
+            }
+        },
+        {
+            "name": "Jeseník",
+            "population": 10456,
+            "connections": {
+                "Praha": 206,
+                "Brno": 198,
+                "Ostrava": 162,
+                "Plzeň": 297,
+                "Liberec": 382,
+                "Olomouc": 120,
+                "Ústí nad Labem": 281,
+                "Hradec Králové": 176,
+                "Pardubice": 145,
+                "Zlín": 182,
+                "České Budějovice": 348,
+                "Jihlava": 321,
+                "Karlovy Vary": 466
+            }
+        },
+        {
+            "name": "Hodonín",
+            "population": 23517,
+            "connections": {
+                "Praha": 195,
+                "Brno": 58,
+                "Ostrava": 102,
+                "Plzeň": 313,
+                "Liberec": 308,
+                "Olomouc": 67,
+                "Ústí nad Labem": 304,
+                "Hradec Králové": 178,
+                "Pardubice": 138,
+                "Zlín": 59,
+                "České Budějovice": 332,
+                "Jihlava": 184,
+                "Karlovy Vary": 442
+            }
+        },
+        {
+            "name": "Šternberk",
+            "population": 13239,
+            "connections": {
+                "Praha": 156,
+                "Brno": 131,
+                "Ostrava": 80,
+                "Plzeň": 250,
+                "Liberec": 334,
+                "Olomouc": 8,
+                "Ústí nad Labem": 234,
+                "Hradec Králové": 124,
+                "Pardubice": 104,
+                "Zlín": 79,
+                "České Budějovice": 254,
+                "Jihlava": 274,
+                "Karlovy Vary": 547
+            }
+        },
+        {
+            "name": "Uničov",
+            "population": 11237,
+            "connections": {
+                "Praha": 168,
+                "Brno": 158,
+                "Ostrava": 92,
+                "Plzeň": 262,
+                "Liberec": 317,
+                "Olomouc": 21,
+                "Ústí nad Labem": 276,
+                "Hradec Králové": 140,
+                "Pardubice": 105,
+                "Zlín": 99,
+                "České Budějovice": 270,
+                "Jihlava": 283,
+                "Karlovy Vary": 371
+            }
+        },
+        {
+            "name": "Přerov",
+            "population": 40906,
+            "connections": {
+                "Praha": 163,
+                "Brno": 74,
+                "Ostrava": 54,
+                "Plzeň": 239,
+                "Liberec": 306,
+                "Olomouc": 12,
+                "Ústí nad Labem": 223,
+                "Hradec Králové": 119,
+                "Pardubice": 93,
+                "Zlín": 47,
+                "České Budějovice": 271,
+                "Jihlava": 217,
+                "Karlovy Vary": 348
+            }
+        },
+        {
+            "name": "Prostějov",
+            "population": 43408,
+            "connections": {
+                "Praha": 166,
+                "Brno": 77,
+                "Ostrava": 103,
+                "Plzeň": 271,
+                "Liberec": 314,
+                "Olomouc": 16,
+                "Ústí nad Labem": 276,
+                "Hradec Králové": 136,
+                "Pardubice": 105,
+                "Zlín": 90,
+                "České Budějovice": 299,
+                "Jihlava": 223,
+                "Karlovy Vary": 370
+            }
+        },
+        {
+            "name": "Šumperk",
+            "population": 24735,
+            "connections": {
+                "Praha": 137,
+                "Brno": 125,
+                "Ostrava": 120,
+                "Plzeň": 230,
+                "Liberec": 284,
+                "Olomouc": 52,
+                "Ústí nad Labem": 214,
+                "Hradec Králové": 109,
+                "Pardubice": 74,
+                "Zlín": 119,
+                "České Budějovice": 245,
+                "Jihlava": 254,
+                "Karlovy Vary": 339
+            }
+        },
+        {
+            "name": "Kroměříž",
+            "population": 27917,
+            "connections": {
+                "Praha": 188,
+                "Brno": 97,
+                "Ostrava": 104,
+                "Plzeň": 281,
+                "Liberec": 337,
+                "Olomouc": 35,
+                "Ústí nad Labem": 295,
+                "Hradec Králové": 160,
+                "Pardubice": 125,
+                "Zlín": 44,
+                "České Budějovice": 342,
+                "Jihlava": 240,
+                "Karlovy Vary": 688
+            }
+        },
+        {
+            "name": "Zábřeh",
+            "population": 13320,
+            "connections": {
+                "Praha": 114,
+                "Brno": 99,
+                "Ostrava": 86,
+                "Plzeň": 205,
+                "Liberec": 220,
+                "Olomouc": 35,
+                "Ústí nad Labem": 209,
+                "Hradec Králové": 99,
+                "Pardubice": 52,
+                "Zlín": 83,
+                "České Budějovice": 226,
+                "Jihlava": 232,
+                "Karlovy Vary": 313
+            }
+        },
+        {
+            "name": "Uherský Brod",
+            "population": 16367,
+            "connections": {
+                "Praha": 244,
+                "Brno": 139,
+                "Ostrava": 120,
+                "Plzeň": 319,
+                "Liberec": 374,
+                "Olomouc": 81,
+                "Ústí nad Labem": 343,
+                "Hradec Králové": 197,
+                "Pardubice": 178,
+                "Zlín": 70,
+                "České Budějovice": 392,
+                "Jihlava": 259,
+                "Karlovy Vary": 459
+            }
+        },
+        {
+            "name": "Uherské Hradiště",
+            "population": 24887,
+            "connections": {
+                "Praha": 204,
+                "Brno": 89,
+                "Ostrava": 103,
+                "Plzeň": 298,
+                "Liberec": 353,
+                "Olomouc": 60,
+                "Ústí nad Labem": 314,
+                "Hradec Králové": 186,
+                "Pardubice": 141,
+                "Zlín": 45,
+                "České Budějovice": 311,
+                "Jihlava": 211,
+                "Karlovy Vary": 407
+            }
+        },
+        {
+            "name": "České Budějovice",
+            "population": 97231,
+            "connections": {
+                "Praha": 102,
+                "Brno": 252,
+                "Ostrava": 332,
+                "Plzeň": 112,
+                "Liberec": 281,
+                "Olomouc": 258,
+                "Ústí nad Labem": 212,
+                "Hradec Králové": 208,
+                "Pardubice": 174,
+                "Zlín": 335,
+                "České Budějovice": 0,
+                "Jihlava": 136,
+                "Karlovy Vary": 261
+            }
+        },
+        {
+            "name": "Ústí nad Labem",
+            "population": 90866,
+            "connections": {
+                "Praha": 70,
+                "Brno": 246,
+                "Ostrava": 269,
+                "Plzeň": 165,
+                "Liberec": 119,
+                "Olomouc": 206,
+                "Ústí nad Labem": 0,
+                "Hradec Králové": 189,
+                "Pardubice": 134,
+                "Zlín": 272,
+                "České Budějovice": 197,
+                "Jihlava": 221,
+                "Karlovy Vary": 119
+            }
+        },
+        {
+            "name": "Litvínov",
+            "population": 22387,
+            "connections": {
+                "Praha": 117,
+                "Brno": 305,
+                "Ostrava": 355,
+                "Plzeň": 246,
+                "Liberec": 219,
+                "Olomouc": 292,
+                "Ústí nad Labem": 42,
+                "Hradec Králové": 243,
+                "Pardubice": 192,
+                "Zlín": 376,
+                "České Budějovice": 252,
+                "Jihlava": 275,
+                "Karlovy Vary": 164
+            }
+        },
+        {
+            "name": "Nový Bor",
+            "population": 11318,
+            "connections": {
+                "Praha": 151,
+                "Brno": 259,
+                "Ostrava": 308,
+                "Plzeň": 277,
+                "Liberec": 86,
+                "Olomouc": 239,
+                "Ústí nad Labem": 73,
+                "Hradec Králové": 170,
+                "Pardubice": 158,
+                "Zlín": 307,
+                "České Budějovice": 289,
+                "Jihlava": 262,
+                "Karlovy Vary": 212
+            }
+        },
+        {
+            "name": "Česká Lípa",
+            "population": 36815,
+            "connections": {
+                "Praha": 127,
+                "Brno": 235,
+                "Ostrava": 284,
+                "Plzeň": 253,
+                "Liberec": 64,
+                "Olomouc": 215,
+                "Ústí nad Labem": 51,
+                "Hradec Králové": 146,
+                "Pardubice": 134,
+                "Zlín": 343,
+                "České Budějovice": 265,
+                "Jihlava": 238,
+                "Karlovy Vary": 190
+            }
+        },
+        {
+            "name": "Jablonec nad Nisou",
+            "population": 46209,
+            "connections": {
+                "Praha": 184,
+                "Brno": 290,
+                "Ostrava": 335,
+                "Plzeň": 311,
+                "Liberec": 20,
+                "Olomouc": 286,
+                "Ústí nad Labem": 148,
+                "Hradec Králové": 155,
+                "Pardubice": 174,
+                "Zlín": 396,
+                "České Budějovice": 352,
+                "Jihlava": 310,
+                "Karlovy Vary": 290
+            }
+        },
+        {
+            "name": "Havlíčkův Brod",
+            "population": 23791,
+            "connections": {
+                "Praha": 114,
+                "Brno": 99,
+                "Ostrava": 249,
+                "Plzeň": 216,
+                "Liberec": 232,
+                "Olomouc": 188,
+                "Ústí nad Labem": 192,
+                "Hradec Králové": 135,
+                "Pardubice": 111,
+                "Zlín": 211,
+                "České Budějovice": 167,
+                "Jihlava": 19,
+                "Karlovy Vary": 343
+            }
+        },
+        {
+            "name": "Litomyšl",
+            "population": 10448,
+            "connections": {
+                "Praha": 160,
+                "Brno": 156,
+                "Ostrava": 196,
+                "Plzeň": 272,
+                "Liberec": 267,
+                "Olomouc": 122,
+                "Ústí nad Labem": 250,
+                "Hradec Králové": 109,
+                "Pardubice": 87,
+                "Zlín": 215,
+                "České Budějovice": 273,
+                "Jihlava": 236,
+                "Karlovy Vary": 402
+            }
+        },
+        {
+            "name": "Humpolec",
+            "population": 11522,
+            "connections": {
+                "Praha": 161,
+                "Brno": 146,
+                "Ostrava": 303,
+                "Plzeň": 263,
+                "Liberec": 277,
+                "Olomouc": 242,
+                "Ústí nad Labem": 240,
+                "Hradec Králové": 192,
+                "Pardubice": 171,
+                "Zlín": 293,
+                "České Budějovice": 281,
+                "Jihlava": 67,
+                "Karlovy Vary": 404
+            }
+        },
+        {
+            "name": "Brno",
+            "population": 402739,
+            "connections": {
+                "Praha": 150,
+                "Brno": 0,
+                "Ostrava": 128,
+                "Plzeň": 259,
+                "Liberec": 256,
+                "Olomouc": 86,
+                "Ústí nad Labem": 243,
+                "Hradec Králové": 133,
+                "Pardubice": 92,
+                "Zlín": 116,
+                "České Budějovice": 251,
+                "Jihlava": 118,
+                "Karlovy Vary": 368
+            }
+        },
+        {
+            "name": "Pelhřimov",
+            "population": 16206,
+            "connections": {
+                "Praha": 144,
+                "Brno": 236,
+                "Ostrava": 362,
+                "Plzeň": 250,
+                "Liberec": 323,
+                "Olomouc": 303,
+                "Ústí nad Labem": 236,
+                "Hradec Králové": 237,
+                "Pardubice": 221,
+                "Zlín": 358,
+                "České Budějovice": 123,
+                "Jihlava": 67,
+                "Karlovy Vary": 421
+            }
+        },
+        {
+            "name": "Třebíč",
+            "population": 34530,
+            "connections": {
+                "Praha": 193,
+                "Brno": 62,
+                "Ostrava": 242,
+                "Plzeň": 295,
+                "Liberec": 363,
+                "Olomouc": 182,
+                "Ústí nad Labem": 271,
+                "Hradec Králové": 224,
+                "Pardubice": 183,
+                "Zlín": 209,
+                "České Budějovice": 182,
+                "Jihlava": 50,
+                "Karlovy Vary": 474
+            }
+        },
+        {
+            "name": "Kuřim",
+            "population": 11860,
+            "connections": {
+                "Praha": 178,
+                "Brno": 20,
+                "Ostrava": 164,
+                "Plzeň": 296,
+                "Liberec": 286,
+                "Olomouc": 122,
+                "Ústí nad Labem": 273,
+                "Hradec Králové": 156,
+                "Pardubice": 121,
+                "Zlín": 157,
+                "České Budějovice": 286,
+                "Jihlava": 109,
+                "Karlovy Vary": 426
+            }
+        },
+        {
+            "name": "Břeclav",
+            "population": 24538,
+            "connections": {
+                "Praha": 181,
+                "Brno": 29,
+                "Ostrava": 114,
+                "Plzeň": 291,
+                "Liberec": 288,
+                "Olomouc": 91,
+                "Ústí nad Labem": 275,
+                "Hradec Králové": 165,
+                "Pardubice": 124,
+                "Zlín": 67,
+                "České Budějovice": 314,
+                "Jihlava": 155,
+                "Karlovy Vary": 400
+            }
+        },
+        {
+            "name": "Rožnov pod Radhoštěm",
+            "population": 16063,
+            "connections": {
+                "Praha": 246,
+                "Brno": 180,
+                "Ostrava": 90,
+                "Plzeň": 345,
+                "Liberec": 380,
+                "Olomouc": 109,
+                "Ústí nad Labem": 329,
+                "Hradec Králové": 192,
+                "Pardubice": 185,
+                "Zlín": 128,
+                "České Budějovice": 360,
+                "Jihlava": 337,
+                "Karlovy Vary": 475
+            }
+        },
+        {
+            "name": "Bohumín",
+            "population": 20315,
+            "connections": {
+                "Praha": 203,
+                "Brno": 151,
+                "Ostrava": 6,
+                "Plzeň": 297,
+                "Liberec": 316,
+                "Olomouc": 70,
+                "Ústí nad Labem": 281,
+                "Hradec Králové": 181,
+                "Pardubice": 140,
+                "Zlín": 110,
+                "České Budějovice": 303,
+                "Jihlava": 294,
+                "Karlovy Vary": 414
+            }
+        },
+        {
+            "name": "Český Těšín",
+            "population": 23075,
+            "connections": {
+                "Praha": 243,
+                "Brno": 467,
+                "Ostrava": 32,
+                "Plzeň": 351,
+                "Liberec": 352,
+                "Olomouc": 106,
+                "Ústí nad Labem": 318,
+                "Hradec Králové": 226,
+                "Pardubice": 177,
+                "Zlín": 273,
+                "České Budějovice": 355,
+                "Jihlava": 348,
+                "Karlovy Vary": 477
+            }
+        },
+        {
+            "name": "Frenštát pod Radhoštěm",
+            "population": 10554,
+            "connections": {
+                "Praha": 239,
+                "Brno": 192,
+                "Ostrava": 75,
+                "Plzeň": 333,
+                "Liberec": 427,
+                "Olomouc": 90,
+                "Ústí nad Labem": 317,
+                "Hradec Králové": 212,
+                "Pardubice": 176,
+                "Zlín": 141,
+                "České Budějovice": 372,
+                "Jihlava": 355,
+                "Karlovy Vary": 481
+            }
+        },
+        {
+            "name": "Kolín",
+            "population": 33444,
+            "connections": {
+                "Praha": 45,
+                "Brno": 121,
+                "Ostrava": 156,
+                "Plzeň": 132,
+                "Liberec": 128,
+                "Olomouc": 98,
+                "Ústí nad Labem": 119,
+                "Hradec Králové": 51,
+                "Pardubice": 20,
+                "Zlín": 155,
+                "České Budějovice": 158,
+                "Jihlava": 94,
+                "Karlovy Vary": 257
+            }
+        },
+        {
+            "name": "Slaný",
+            "population": 16937,
+            "connections": {
+                "Praha": 74,
+                "Brno": 257,
+                "Ostrava": 284,
+                "Plzeň": 185,
+                "Liberec": 201,
+                "Olomouc": 219,
+                "Ústí nad Labem": 103,
+                "Hradec Králové": 172,
+                "Pardubice": 137,
+                "Zlín": 304,
+                "České Budějovice": 179,
+                "Jihlava": 236,
+                "Karlovy Vary": 224
+            }
+        },
+        {
+            "name": "Kutná Hora",
+            "population": 21642,
+            "connections": {
+                "Praha": 53,
+                "Brno": 138,
+                "Ostrava": 188,
+                "Plzeň": 156,
+                "Liberec": 157,
+                "Olomouc": 119,
+                "Ústí nad Labem": 133,
+                "Hradec Králové": 77,
+                "Pardubice": 37,
+                "Zlín": 187,
+                "České Budějovice": 178,
+                "Jihlava": 83,
+                "Karlovy Vary": 286
+            }
+        },
+        {
+            "name": "Čáslav",
+            "population": 10399,
+            "connections": {
+                "Praha": 62,
+                "Brno": 147,
+                "Ostrava": 207,
+                "Plzeň": 160,
+                "Liberec": 181,
+                "Olomouc": 127,
+                "Ústí nad Labem": 141,
+                "Hradec Králové": 82,
+                "Pardubice": 46,
+                "Zlín": 208,
+                "České Budějovice": 187,
+                "Jihlava": 74,
+                "Karlovy Vary": 286
+            }
+        },
+        {
+            "name": "Čelákovice",
+            "population": 12474,
+            "connections": {
+                "Praha": 30,
+                "Brno": 192,
+                "Ostrava": 250,
+                "Plzeň": 124,
+                "Liberec": 152,
+                "Olomouc": 164,
+                "Ústí nad Labem": 111,
+                "Hradec Králové": 89,
+                "Pardubice": 79,
+                "Zlín": 242,
+                "České Budějovice": 145,
+                "Jihlava": 156,
+                "Karlovy Vary": 253
+            }
+        },
+        {
+            "name": "Brandýs nad Labem-Stará Boleslav",
+            "population": 20313,
+            "connections": {
+                "Praha": 56,
+                "Brno": 225,
+                "Ostrava": 230,
+                "Plzeň": 149,
+                "Liberec": 164,
+                "Olomouc": 164,
+                "Ústí nad Labem": 78,
+                "Hradec Králové": 109,
+                "Pardubice": 82,
+                "Zlín": 253,
+                "České Budějovice": 178,
+                "Jihlava": 144,
+                "Karlovy Vary": 243
+            }
+        },
+        {
+            "name": "Říčany",
+            "population": 17143,
+            "connections": {
+                "Praha": 27,
+                "Brno": 188,
+                "Ostrava": 224,
+                "Plzeň": 120,
+                "Liberec": 193,
+                "Olomouc": 168,
+                "Ústí nad Labem": 118,
+                "Hradec Králové": 117,
+                "Pardubice": 88,
+                "Zlín": 267,
+                "České Budějovice": 121,
+                "Jihlava": 174,
+                "Karlovy Vary": 249
+            }
+        },
+        {
+            "name": "Karlovy Vary",
+            "population": 49073,
+            "connections": {
+                "Praha": 193,
+                "Brno": 369,
+                "Ostrava": 406,
+                "Plzeň": 122,
+                "Liberec": 256,
+                "Olomouc": 343,
+                "Ústí nad Labem": 116,
+                "Hradec Králové": 316,
+                "Pardubice": 268,
+                "Zlín": 413,
+                "České Budějovice": 244,
+                "Jihlava": 386,
+                "Karlovy Vary": 0
+            }
+        },
+        {
+            "name": "Cheb",
+            "population": 32808,
+            "connections": {
+                "Praha": 169,
+                "Brno": 345,
+                "Ostrava": 371,
+                "Plzeň": 79,
+                "Liberec": 302,
+                "Olomouc": 305,
+                "Ústí nad Labem": 161,
+                "Hradec Králové": 275,
+                "Pardubice": 233,
+                "Zlín": 394,
+                "České Budějovice": 200,
+                "Jihlava": 344,
+                "Karlovy Vary": 44
+            }
+        },
+        {
+            "name": "Mariánské Lázně",
+            "population": 14052,
+            "connections": {
+                "Praha": 147,
+                "Brno": 324,
+                "Ostrava": 348,
+                "Plzeň": 58,
+                "Liberec": 367,
+                "Olomouc": 284,
+                "Ústí nad Labem": 228,
+                "Hradec Králové": 270,
+                "Pardubice": 213,
+                "Zlín": 351,
+                "České Budějovice": 180,
+                "Jihlava": 323,
+                "Karlovy Vary": 76
+            }
+        },
+        {
+            "name": "Chodov",
+            "population": 12609,
+            "connections": {
+                "Praha": 205,
+                "Brno": 381,
+                "Ostrava": 428,
+                "Plzeň": 131,
+                "Liberec": 268,
+                "Olomouc": 363,
+                "Ústí nad Labem": 129,
+                "Hradec Králové": 328,
+                "Pardubice": 280,
+                "Zlín": 425,
+                "České Budějovice": 258,
+                "Jihlava": 398,
+                "Karlovy Vary": 10
+            }
+        },
+        {
+            "name": "Žatec",
+            "population": 18959,
+            "connections": {
+                "Praha": 125,
+                "Brno": 308,
+                "Ostrava": 363,
+                "Plzeň": 113,
+                "Liberec": 258,
+                "Olomouc": 288,
+                "Ústí nad Labem": 92,
+                "Hradec Králové": 228,
+                "Pardubice": 206,
+                "Zlín": 366,
+                "České Budějovice": 234,
+                "Jihlava": 297,
+                "Karlovy Vary": 86
+            }
+        },
+        {
+            "name": "Havířov",
+            "population": 68674,
+            "connections": {
+                "Praha": 212,
+                "Brno": 165,
+                "Ostrava": 19,
+                "Plzeň": 324,
+                "Liberec": 328,
+                "Olomouc": 86,
+                "Ústí nad Labem": 311,
+                "Hradec Králové": 200,
+                "Pardubice": 154,
+                "Zlín": 134,
+                "České Budějovice": 330,
+                "Jihlava": 308,
+                "Karlovy Vary": 453
+            }
+        },
+        {
+            "name": "Karviná",
+            "population": 48937,
+            "connections": {
+                "Praha": 226,
+                "Brno": 168,
+                "Ostrava": 17,
+                "Plzeň": 319,
+                "Liberec": 363,
+                "Olomouc": 84,
+                "Ústí nad Labem": 303,
+                "Hradec Králové": 192,
+                "Pardubice": 162,
+                "Zlín": 149,
+                "České Budějovice": 356,
+                "Jihlava": 321,
+                "Karlovy Vary": 456
+            }
+        },
+        {
+            "name": "Český Krumlov",
+            "population": 12797,
+            "connections": {
+                "Praha": 151,
+                "Brno": 315,
+                "Ostrava": 361,
+                "Plzeň": 177,
+                "Liberec": 337,
+                "Olomouc": 295,
+                "Ústí nad Labem": 268,
+                "Hradec Králové": 266,
+                "Pardubice": 213,
+                "Zlín": 355,
+                "České Budějovice": 46,
+                "Jihlava": 202,
+                "Karlovy Vary": 368
+            }
+        },
+        {
+            "name": "Rakovník",
+            "population": 15682,
+            "connections": {
+                "Praha": 91,
+                "Brno": 264,
+                "Ostrava": 320,
+                "Plzeň": 109,
+                "Liberec": 269,
+                "Olomouc": 250,
+                "Ústí nad Labem": 138,
+                "Hradec Králové": 190,
+                "Pardubice": 168,
+                "Zlín": 320,
+                "České Budějovice": 231,
+                "Jihlava": 245,
+                "Karlovy Vary": 138
+            }
+        },
+        {
+            "name": "Jindřichův Hradec",
+            "population": 20540,
+            "connections": {
+                "Praha": 130,
+                "Brno": 194,
+                "Ostrava": 343,
+                "Plzeň": 177,
+                "Liberec": 292,
+                "Olomouc": 280,
+                "Ústí nad Labem": 221,
+                "Hradec Králové": 233,
+                "Pardubice": 192,
+                "Zlín": 332,
+                "České Budějovice": 56,
+                "Jihlava": 78,
+                "Karlovy Vary": 326
+            }
+        },
+        {
+            "name": "Příbram",
+            "population": 32773,
+            "connections": {
+                "Praha": 88,
+                "Brno": 261,
+                "Ostrava": 308,
+                "Plzeň": 73,
+                "Liberec": 283,
+                "Olomouc": 242,
+                "Ústí nad Labem": 194,
+                "Hradec Králové": 196,
+                "Pardubice": 158,
+                "Zlín": 302,
+                "České Budějovice": 112,
+                "Jihlava": 252,
+                "Karlovy Vary": 257
+            }
+        },
+        {
+            "name": "Sušice",
+            "population": 10740,
+            "connections": {
+                "Praha": 178,
+                "Brno": 350,
+                "Ostrava": 380,
+                "Plzeň": 83,
+                "Liberec": 379,
+                "Olomouc": 315,
+                "Ústí nad Labem": 258,
+                "Hradec Králové": 301,
+                "Pardubice": 243,
+                "Zlín": 418,
+                "České Budějovice": 90,
+                "Jihlava": 234,
+                "Karlovy Vary": 241
+            }
+        },
+        {
+            "name": "Rokycany",
+            "population": 14381,
+            "connections": {
+                "Praha": 80,
+                "Brno": 248,
+                "Ostrava": 316,
+                "Plzeň": 10,
+                "Liberec": 261,
+                "Olomouc": 250,
+                "Ústí nad Labem": 190,
+                "Hradec Králové": 174,
+                "Pardubice": 150,
+                "Zlín": 300,
+                "České Budějovice": 132,
+                "Jihlava": 230,
+                "Karlovy Vary": 163
+            }
+        },
+        {
+            "name": "Aš",
+            "population": 12684,
+            "connections": {
+                "Praha": 211,
+                "Brno": 388,
+                "Ostrava": 435,
+                "Plzeň": 121,
+                "Liberec": 335,
+                "Olomouc": 348,
+                "Ústí nad Labem": 196,
+                "Hradec Králové": 334,
+                "Pardubice": 276,
+                "Zlín": 414,
+                "České Budějovice": 243,
+                "Jihlava": 387,
+                "Karlovy Vary": 77
+            }
+        },
+        {
+            "name": "Tachov",
+            "population": 14097,
+            "connections": {
+                "Praha": 160,
+                "Brno": 347,
+                "Ostrava": 370,
+                "Plzeň": 77,
+                "Liberec": 381,
+                "Olomouc": 307,
+                "Ústí nad Labem": 265,
+                "Hradec Králové": 276,
+                "Pardubice": 235,
+                "Zlín": 373,
+                "České Budějovice": 192,
+                "Jihlava": 336,
+                "Karlovy Vary": 99
+            }
+        },
+        {
+            "name": "Neratovice",
+            "population": 16360,
+            "connections": {
+                "Praha": 33,
+                "Brno": 201,
+                "Ostrava": 246,
+                "Plzeň": 142,
+                "Liberec": 116,
+                "Olomouc": 181,
+                "Ústí nad Labem": 76,
+                "Hradec Králové": 134,
+                "Pardubice": 100,
+                "Zlín": 249,
+                "České Budějovice": 170,
+                "Jihlava": 170,
+                "Karlovy Vary": 228
+            }
+        },
+        {
+            "name": "Kralupy nad Vltavou",
+            "population": 19005,
+            "connections": {
+                "Praha": 32,
+                "Brno": 213,
+                "Ostrava": 240,
+                "Plzeň": 136,
+                "Liberec": 145,
+                "Olomouc": 177,
+                "Ústí nad Labem": 52,
+                "Hradec Králové": 132,
+                "Pardubice": 100,
+                "Zlín": 243,
+                "České Budějovice": 139,
+                "Jihlava": 190,
+                "Karlovy Vary": 177
+            }
+        },
+        {
+            "name": "Mělník",
+            "population": 20278,
+            "connections": {
+                "Praha": 51,
+                "Brno": 219,
+                "Ostrava": 248,
+                "Plzeň": 162,
+                "Liberec": 133,
+                "Olomouc": 182,
+                "Ústí nad Labem": 57,
+                "Hradec Králové": 130,
+                "Pardubice": 100,
+                "Zlín": 267,
+                "České Budějovice": 189,
+                "Jihlava": 162,
+                "Karlovy Vary": 235
+            }
+        },
+        {
+            "name": "Mladá Boleslav",
+            "population": 47346,
+            "connections": {
+                "Praha": 68,
+                "Brno": 177,
+                "Ostrava": 226,
+                "Plzeň": 194,
+                "Liberec": 70,
+                "Olomouc": 157,
+                "Ústí nad Labem": 108,
+                "Hradec Králové": 88,
+                "Pardubice": 76,
+                "Zlín": 225,
+                "České Budějovice": 206,
+                "Jihlava": 180,
+                "Karlovy Vary": 250
+            }
+        },
+        {
+            "name": "Lysá nad Labem",
+            "population": 10004,
+            "connections": {
+                "Praha": 30,
+                "Brno": 183,
+                "Ostrava": 206,
+                "Plzeň": 132,
+                "Liberec": 136,
+                "Olomouc": 143,
+                "Ústí nad Labem": 85,
+                "Hradec Králové": 78,
+                "Pardubice": 64,
+                "Zlín": 227,
+                "České Budějovice": 153,
+                "Jihlava": 136,
+                "Karlovy Vary": 248
+            }
+        },
+        {
+            "name": "Jesenice",
+            "population": 10460,
+            "connections": {
+                "Praha": Infinity,
+                "Brno": Infinity,
+                "Ostrava": Infinity,
+                "Plzeň": Infinity,
+                "Liberec": Infinity,
+                "Olomouc": Infinity,
+                "Ústí nad Labem": Infinity,
+                "Hradec Králové": Infinity,
+                "Pardubice": Infinity,
+                "Zlín": Infinity,
+                "České Budějovice": Infinity,
+                "Jihlava": Infinity,
+                "Karlovy Vary": Infinity
+            }
+        },
+        {
+            "name": "Milovice",
+            "population": 14270,
+            "connections": {
+                "Praha": 45,
+                "Brno": 197,
+                "Ostrava": 229,
+                "Plzeň": 139,
+                "Liberec": 157,
+                "Olomouc": 163,
+                "Ústí nad Labem": 102,
+                "Hradec Králové": 94,
+                "Pardubice": 78,
+                "Zlín": 241,
+                "České Budějovice": 163,
+                "Jihlava": 170,
+                "Karlovy Vary": 451
+            }
+        },
+        {
+            "name": "Poděbrady",
+            "population": 15232,
+            "connections": {
+                "Praha": 48,
+                "Brno": 143,
+                "Ostrava": 182,
+                "Plzeň": 158,
+                "Liberec": 115,
+                "Olomouc": 122,
+                "Ústí nad Labem": 104,
+                "Hradec Králové": 48,
+                "Pardubice": 42,
+                "Zlín": 190,
+                "České Budějovice": 203,
+                "Jihlava": 117,
+                "Karlovy Vary": 270
+            }
+        },
+        {
+            "name": "Nymburk",
+            "population": 15642,
+            "connections": {
+                "Praha": 40,
+                "Brno": 151,
+                "Ostrava": 191,
+                "Plzeň": 150,
+                "Liberec": 103,
+                "Olomouc": 130,
+                "Ústí nad Labem": 96,
+                "Hradec Králové": 55,
+                "Pardubice": 50,
+                "Zlín": 198,
+                "České Budějovice": 172,
+                "Jihlava": 124,
+                "Karlovy Vary": 261
+            }
+        },
+        {
+            "name": "Plzeň",
+            "population": 187928,
+            "connections": {
+                "Praha": 82,
+                "Brno": 259,
+                "Ostrava": 282,
+                "Plzeň": 0,
+                "Liberec": 272,
+                "Olomouc": 219,
+                "Ústí nad Labem": 162,
+                "Hradec Králové": 185,
+                "Pardubice": 147,
+                "Zlín": 285,
+                "České Budějovice": 110,
+                "Jihlava": 241,
+                "Karlovy Vary": 126
+            }
+        },
+        {
+            "name": "Sokolov",
+            "population": 22007,
+            "connections": {
+                "Praha": 205,
+                "Brno": 371,
+                "Ostrava": 405,
+                "Plzeň": 104,
+                "Liberec": 278,
+                "Olomouc": 331,
+                "Ústí nad Labem": 139,
+                "Hradec Králové": 337,
+                "Pardubice": 270,
+                "Zlín": 433,
+                "České Budějovice": 283,
+                "Jihlava": 370,
+                "Karlovy Vary": 17
+            }
+        },
+        {
+            "name": "Klatovy",
+            "population": 22763,
+            "connections": {
+                "Praha": 142,
+                "Brno": 316,
+                "Ostrava": 382,
+                "Plzeň": 49,
+                "Liberec": 325,
+                "Olomouc": 298,
+                "Ústí nad Labem": 252,
+                "Hradec Králové": 238,
+                "Pardubice": 214,
+                "Zlín": 364,
+                "České Budějovice": 140,
+                "Jihlava": 284,
+                "Karlovy Vary": 223
+            }
+        },
+        {
+            "name": "Děčín",
+            "population": 46376,
+            "connections": {
+                "Praha": 107,
+                "Brno": 283,
+                "Ostrava": 285,
+                "Plzeň": 181,
+                "Liberec": 101,
+                "Olomouc": 257,
+                "Ústí nad Labem": 15,
+                "Hradec Králové": 223,
+                "Pardubice": 159,
+                "Zlín": 342,
+                "České Budějovice": 214,
+                "Jihlava": 241,
+                "Karlovy Vary": 142
+            }
+        },
+        {
+            "name": "Liberec",
+            "population": 108090,
+            "connections": {
+                "Praha": 146,
+                "Brno": 254,
+                "Ostrava": 296,
+                "Plzeň": 315,
+                "Liberec": 0,
+                "Olomouc": 234,
+                "Ústí nad Labem": 117,
+                "Hradec Králové": 145,
+                "Pardubice": 165,
+                "Zlín": 332,
+                "České Budějovice": 284,
+                "Jihlava": 257,
+                "Karlovy Vary": 259
+            }
+        },
+        {
+            "name": "Vrchlabí",
+            "population": 12102,
+            "connections": {
+                "Praha": 177,
+                "Brno": 248,
+                "Ostrava": 313,
+                "Plzeň": 297,
+                "Liberec": 128,
+                "Olomouc": 214,
+                "Ústí nad Labem": 273,
+                "Hradec Králové": 110,
+                "Pardubice": 130,
+                "Zlín": 330,
+                "České Budějovice": 314,
+                "Jihlava": 282,
+                "Karlovy Vary": 422
+            }
+        },
+        {
+            "name": "Chrudim",
+            "population": 23564,
+            "connections": {
+                "Praha": 85,
+                "Brno": 125,
+                "Ostrava": 167,
+                "Plzeň": 191,
+                "Liberec": 189,
+                "Olomouc": 112,
+                "Ústí nad Labem": 178,
+                "Hradec Králové": 38,
+                "Pardubice": 17,
+                "Zlín": 170,
+                "České Budějovice": 195,
+                "Jihlava": 129,
+                "Karlovy Vary": 443
+            }
+        },
+        {
+            "name": "Přelouč",
+            "population": 10203,
+            "connections": {
+                "Praha": 53,
+                "Brno": 109,
+                "Ostrava": 159,
+                "Plzeň": 173,
+                "Liberec": 168,
+                "Olomouc": 89,
+                "Ústí nad Labem": 155,
+                "Hradec Králové": 29,
+                "Pardubice": 7,
+                "Zlín": 155,
+                "České Budějovice": 174,
+                "Jihlava": 137,
+                "Karlovy Vary": 282
+            }
+        },
+        {
+            "name": "Žďár nad Sázavou",
+            "population": 20404,
+            "connections": {
+                "Praha": 147,
+                "Brno": 67,
+                "Ostrava": 217,
+                "Plzeň": 245,
+                "Liberec": 264,
+                "Olomouc": 175,
+                "Ústí nad Labem": 227,
+                "Hradec Králové": 178,
+                "Pardubice": 131,
+                "Zlín": 179,
+                "České Budějovice": 208,
+                "Jihlava": 54,
+                "Karlovy Vary": 380
+            }
+        },
+        {
+            "name": "Blansko",
+            "population": 20002,
+            "connections": {
+                "Praha": 170,
+                "Brno": 20,
+                "Ostrava": 160,
+                "Plzeň": 252,
+                "Liberec": 264,
+                "Olomouc": 103,
+                "Ústí nad Labem": 236,
+                "Hradec Králové": 113,
+                "Pardubice": 78,
+                "Zlín": 156,
+                "České Budějovice": 270,
+                "Jihlava": 150,
+                "Karlovy Vary": 361
+            }
+        },
+        {
+            "name": "Veselí nad Moravou",
+            "population": 10623,
+            "connections": {
+                "Praha": 242,
+                "Brno": 92,
+                "Ostrava": 123,
+                "Plzeň": 357,
+                "Liberec": 406,
+                "Olomouc": 88,
+                "Ústí nad Labem": 339,
+                "Hradec Králové": 206,
+                "Pardubice": 175,
+                "Zlín": 67,
+                "České Budějovice": 354,
+                "Jihlava": 247,
+                "Karlovy Vary": 482
+            }
+        },
+        {
+            "name": "Vyškov",
+            "population": 20645,
+            "connections": {
+                "Praha": 206,
+                "Brno": 39,
+                "Ostrava": 120,
+                "Plzeň": 297,
+                "Liberec": 315,
+                "Olomouc": 52,
+                "Ústí nad Labem": 300,
+                "Hradec Králové": 191,
+                "Pardubice": 145,
+                "Zlín": 105,
+                "České Budějovice": 315,
+                "Jihlava": 172,
+                "Karlovy Vary": 427
+            }
+        },
+        {
+            "name": "Olomouc",
+            "population": 103063,
+            "connections": {
+                "Praha": 133,
+                "Brno": 98,
+                "Ostrava": 58,
+                "Plzeň": 225,
+                "Liberec": 275,
+                "Olomouc": 0,
+                "Ústí nad Labem": 209,
+                "Hradec Králové": 101,
+                "Pardubice": 73,
+                "Zlín": 53,
+                "České Budějovice": 231,
+                "Jihlava": 253,
+                "Karlovy Vary": 334
+            }
+        },
+        {
+            "name": "Znojmo",
+            "population": 34172,
+            "connections": {
+                "Praha": 281,
+                "Brno": 129,
+                "Ostrava": 245,
+                "Plzeň": 394,
+                "Liberec": 415,
+                "Olomouc": 168,
+                "Ústí nad Labem": 382,
+                "Hradec Králové": 267,
+                "Pardubice": 224,
+                "Zlín": 148,
+                "České Budějovice": 257,
+                "Jihlava": 102,
+                "Karlovy Vary": 475
+            }
+        },
+        {
+            "name": "Písek",
+            "population": 31121,
+            "connections": {
+                "Praha": 157,
+                "Brno": 304,
+                "Ostrava": 368,
+                "Plzeň": 102,
+                "Liberec": 331,
+                "Olomouc": 302,
+                "Ústí nad Labem": 242,
+                "Hradec Králové": 272,
+                "Pardubice": 211,
+                "Zlín": 365,
+                "České Budějovice": 44,
+                "Jihlava": 188,
+                "Karlovy Vary": 237
+            }
+        },
+        {
+            "name": "Prachatice",
+            "population": 11119,
+            "connections": {
+                "Praha": 177,
+                "Brno": 330,
+                "Ostrava": 396,
+                "Plzeň": 140,
+                "Liberec": 379,
+                "Olomouc": 327,
+                "Ústí nad Labem": 283,
+                "Hradec Králové": 293,
+                "Pardubice": 246,
+                "Zlín": 420,
+                "České Budějovice": 72,
+                "Jihlava": 214,
+                "Karlovy Vary": 336
+            }
+        },
+        {
+            "name": "Tábor",
+            "population": 34356,
+            "connections": {
+                "Praha": 60,
+                "Brno": 225,
+                "Ostrava": 271,
+                "Plzeň": 153,
+                "Liberec": 231,
+                "Olomouc": 202,
+                "Ústí nad Labem": 160,
+                "Hradec Králové": 162,
+                "Pardubice": 124,
+                "Zlín": 270,
+                "České Budějovice": 36,
+                "Jihlava": 136,
+                "Karlovy Vary": 287
+            }
+        },
+        {
+            "name": "Strakonice",
+            "population": 22355,
+            "connections": {
+                "Praha": 149,
+                "Brno": 308,
+                "Ostrava": 390,
+                "Plzeň": 63,
+                "Liberec": 358,
+                "Olomouc": 321,
+                "Ústí nad Labem": 248,
+                "Hradec Králové": 271,
+                "Pardubice": 233,
+                "Zlín": 405,
+                "České Budějovice": 48,
+                "Jihlava": 192,
+                "Karlovy Vary": 198
+            }
+        },
+        {
+            "name": "Domažlice",
+            "population": 11133,
+            "connections": {
+                "Praha": 172,
+                "Brno": 318,
+                "Ostrava": 367,
+                "Plzeň": 46,
+                "Liberec": 368,
+                "Olomouc": 288,
+                "Ústí nad Labem": 221,
+                "Hradec Králové": 265,
+                "Pardubice": 216,
+                "Zlín": 419,
+                "České Budějovice": 199,
+                "Jihlava": 321,
+                "Karlovy Vary": 242
+            }
+        },
+        {
+            "name": "Kadaň",
+            "population": 18090,
+            "connections": {
+                "Praha": 159,
+                "Brno": 356,
+                "Ostrava": 385,
+                "Plzeň": 158,
+                "Liberec": 222,
+                "Olomouc": 350,
+                "Ústí nad Labem": 83,
+                "Hradec Králové": 282,
+                "Pardubice": 234,
+                "Zlín": 390,
+                "České Budějovice": 279,
+                "Jihlava": 339,
+                "Karlovy Vary": 63
+            }
+        },
+        {
+            "name": "Roudnice nad Labem",
+            "population": 12668,
+            "connections": {
+                "Praha": 47,
+                "Brno": 219,
+                "Ostrava": 269,
+                "Plzeň": 165,
+                "Liberec": 168,
+                "Olomouc": 209,
+                "Ústí nad Labem": 32,
+                "Hradec Králové": 159,
+                "Pardubice": 137,
+                "Zlín": 272,
+                "České Budějovice": 166,
+                "Jihlava": 249,
+                "Karlovy Vary": 153
+            }
+        },
+        {
+            "name": "Hradec Králové",
+            "population": 94311,
+            "connections": {
+                "Praha": 90,
+                "Brno": 128,
+                "Ostrava": 176,
+                "Plzeň": 204,
+                "Liberec": 146,
+                "Olomouc": 101,
+                "Ústí nad Labem": 185,
+                "Hradec Králové": 0,
+                "Pardubice": 16,
+                "Zlín": 182,
+                "České Budějovice": 206,
+                "Jihlava": 167,
+                "Karlovy Vary": 312
+            }
+        },
+        {
+            "name": "Jihlava",
+            "population": 54624,
+            "connections": {
+                "Praha": 138,
+                "Brno": 121,
+                "Ostrava": 297,
+                "Plzeň": 240,
+                "Liberec": 258,
+                "Olomouc": 214,
+                "Ústí nad Labem": 217,
+                "Hradec Králové": 168,
+                "Pardubice": 144,
+                "Zlín": 264,
+                "České Budějovice": 135,
+                "Jihlava": 0,
+                "Karlovy Vary": 381
+            }
+        },
+        {
+            "name": "Česká Třebová",
+            "population": 15010,
+            "connections": {
+                "Praha": 94,
+                "Brno": 65,
+                "Ostrava": 112,
+                "Plzeň": 200,
+                "Liberec": 198,
+                "Olomouc": 41,
+                "Ústí nad Labem": 187,
+                "Hradec Králové": 70,
+                "Pardubice": 39,
+                "Zlín": 107,
+                "České Budějovice": 204,
+                "Jihlava": 187,
+                "Karlovy Vary": 323
+            }
+        },
+        {
+            "name": "Vysoké Mýto",
+            "population": 12560,
+            "connections": {
+                "Praha": 102,
+                "Brno": 121,
+                "Ostrava": 163,
+                "Plzeň": 237,
+                "Liberec": 230,
+                "Olomouc": 85,
+                "Ústí nad Labem": 221,
+                "Hradec Králové": 84,
+                "Pardubice": 39,
+                "Zlín": 156,
+                "České Budějovice": 238,
+                "Jihlava": 201,
+                "Karlovy Vary": 340
+            }
+        },
+        {
+            "name": "Velké Meziříčí",
+            "population": 11608,
+            "connections": {
+                "Praha": 191,
+                "Brno": 82,
+                "Ostrava": 266,
+                "Plzeň": 293,
+                "Liberec": 307,
+                "Olomouc": 189,
+                "Ústí nad Labem": 270,
+                "Hradec Králové": 216,
+                "Pardubice": 174,
+                "Zlín": 228,
+                "České Budějovice": 246,
+                "Jihlava": 97,
+                "Karlovy Vary": 423
+            }
+        },
+        {
+            "name": "Vsetín",
+            "population": 25185,
+            "connections": {
+                "Praha": 112,
+                "Brno": 171,
+                "Ostrava": 94,
+                "Plzeň": 306,
+                "Liberec": 386,
+                "Olomouc": 69,
+                "Ústí nad Labem": 290,
+                "Hradec Králové": 433,
+                "Pardubice": 149,
+                "Zlín": 127,
+                "České Budějovice": 589,
+                "Jihlava": 317,
+                "Karlovy Vary": 439
+            }
+        },
+        {
+            "name": "Valašské Meziříčí",
+            "population": 22580,
+            "connections": {
+                "Praha": 189,
+                "Brno": 151,
+                "Ostrava": 86,
+                "Plzeň": 288,
+                "Liberec": 348,
+                "Olomouc": 51,
+                "Ústí nad Labem": 278,
+                "Hradec Králové": 162,
+                "Pardubice": 136,
+                "Zlín": 95,
+                "České Budějovice": 292,
+                "Jihlava": 294,
+                "Karlovy Vary": 402
+            }
+        },
+        {
+            "name": "Nový Jičín",
+            "population": 23005,
+            "connections": {
+                "Praha": 214,
+                "Brno": 144,
+                "Ostrava": 35,
+                "Plzeň": 323,
+                "Liberec": 376,
+                "Olomouc": 80,
+                "Ústí nad Labem": 307,
+                "Hradec Králové": 197,
+                "Pardubice": 166,
+                "Zlín": 129,
+                "České Budějovice": 324,
+                "Jihlava": 294,
+                "Karlovy Vary": 439
+            }
+        },
+        {
+            "name": "Orlová",
+            "population": 27540,
+            "connections": {
+                "Praha": Infinity,
+                "Brno": Infinity,
+                "Ostrava": Infinity,
+                "Plzeň": Infinity,
+                "Liberec": Infinity,
+                "Olomouc": Infinity,
+                "Ústí nad Labem": Infinity,
+                "Hradec Králové": Infinity,
+                "Pardubice": Infinity,
+                "Zlín": Infinity,
+                "České Budějovice": Infinity,
+                "Jihlava": Infinity,
+                "Karlovy Vary": Infinity
+            }
+        },
+        {
+            "name": "Třinec",
+            "population": 33852,
+            "connections": {
+                "Praha": 250,
+                "Brno": 205,
+                "Ostrava": 40,
+                "Plzeň": 339,
+                "Liberec": 394,
+                "Olomouc": 107,
+                "Ústí nad Labem": 325,
+                "Hradec Králové": 213,
+                "Pardubice": 184,
+                "Zlín": 165,
+                "České Budějovice": 386,
+                "Jihlava": 333,
+                "Karlovy Vary": 477
+            }
+        },
+        {
+            "name": "Opava",
+            "population": 55109,
+            "connections": {
+                "Praha": 212,
+                "Brno": 197,
+                "Ostrava": 20,
+                "Plzeň": 316,
+                "Liberec": 358,
+                "Olomouc": 83,
+                "Ústí nad Labem": 300,
+                "Hradec Králové": 177,
+                "Pardubice": 148,
+                "Zlín": 127,
+                "České Budějovice": 320,
+                "Jihlava": 308,
+                "Karlovy Vary": 430
+            }
+        },
+        {
+            "name": "Ostrava",
+            "population": 283187,
+            "connections": {
+                "Praha": 201,
+                "Brno": 143,
+                "Ostrava": 0,
+                "Plzeň": 288,
+                "Liberec": 306,
+                "Olomouc": 59,
+                "Ústí nad Labem": 272,
+                "Hradec Králové": 162,
+                "Pardubice": 135,
+                "Zlín": 101,
+                "České Budějovice": 292,
+                "Jihlava": 286,
+                "Karlovy Vary": 405
+            }
+        },
+        {
+            "name": "Chomutov",
+            "population": 46771,
+            "connections": {
+                "Praha": 140,
+                "Brno": 316,
+                "Ostrava": 339,
+                "Plzeň": 137,
+                "Liberec": 203,
+                "Olomouc": 276,
+                "Ústí nad Labem": 64,
+                "Hradec Králové": 263,
+                "Pardubice": 204,
+                "Zlín": 364,
+                "České Budějovice": 259,
+                "Jihlava": 312,
+                "Karlovy Vary": 53
+            }
+        },
+        {
+            "name": "Varnsdorf",
+            "population": 14704,
+            "connections": {
+                "Praha": 191,
+                "Brno": 318,
+                "Ostrava": 360,
+                "Plzeň": 297,
+                "Liberec": 78,
+                "Olomouc": 298,
+                "Ústí nad Labem": 99,
+                "Hradec Králové": 229,
+                "Pardubice": 217,
+                "Zlín": 422,
+                "České Budějovice": 298,
+                "Jihlava": 321,
+                "Karlovy Vary": 226
+            }
+        },
+        {
+            "name": "Jirkov",
+            "population": 19240,
+            "connections": {
+                "Praha": 151,
+                "Brno": 327,
+                "Ostrava": 393,
+                "Plzeň": 198,
+                "Liberec": 214,
+                "Olomouc": 324,
+                "Ústí nad Labem": 75,
+                "Hradec Králové": 274,
+                "Pardubice": 226,
+                "Zlín": 405,
+                "České Budějovice": 297,
+                "Jihlava": 320,
+                "Karlovy Vary": 89
+            }
+        },
+        {
+            "name": "Rumburk",
+            "population": 10815,
+            "connections": {
+                "Praha": 187,
+                "Brno": 301,
+                "Ostrava": 349,
+                "Plzeň": 293,
+                "Liberec": 123,
+                "Olomouc": 281,
+                "Ústí nad Labem": 95,
+                "Hradec Králové": 212,
+                "Pardubice": 200,
+                "Zlín": 355,
+                "České Budějovice": 294,
+                "Jihlava": 310,
+                "Karlovy Vary": 222
+            }
+        },
+        {
+            "name": "Jičín",
+            "population": 16101,
+            "connections": {
+                "Praha": 105,
+                "Brno": 224,
+                "Ostrava": 255,
+                "Plzeň": 237,
+                "Liberec": 89,
+                "Olomouc": 206,
+                "Ústí nad Labem": 205,
+                "Hradec Králové": 77,
+                "Pardubice": 103,
+                "Zlín": 274,
+                "České Budějovice": 259,
+                "Jihlava": 222,
+                "Karlovy Vary": 328
+            }
+        },
+        {
+            "name": "Jaroměř",
+            "population": 12483,
+            "connections": {
+                "Praha": 108,
+                "Brno": 156,
+                "Ostrava": 193,
+                "Plzeň": 220,
+                "Liberec": 130,
+                "Olomouc": 129,
+                "Ústí nad Labem": 204,
+                "Hradec Králové": 13,
+                "Pardubice": 32,
+                "Zlín": 184,
+                "České Budějovice": 221,
+                "Jihlava": 184,
+                "Karlovy Vary": 340
+            }
+        },
+        {
+            "name": "Krupka Bohosudov",
+            "population": 12793,
+            "connections": {
+                "Praha": 101,
+                "Brno": 277,
+                "Ostrava": 300,
+                "Plzeň": 196,
+                "Liberec": 164,
+                "Olomouc": 237,
+                "Ústí nad Labem": 14,
+                "Hradec Králové": 216,
+                "Pardubice": 176,
+                "Zlín": 350,
+                "České Budějovice": 216,
+                "Jihlava": 248,
+                "Karlovy Vary": 112
+            }
+        },
+        {
+            "name": "Turnov",
+            "population": 14577,
+            "connections": {
+                "Praha": 107,
+                "Brno": 215,
+                "Ostrava": 264,
+                "Plzeň": 233,
+                "Liberec": 33,
+                "Olomouc": 195,
+                "Ústí nad Labem": 150,
+                "Hradec Králové": 104,
+                "Pardubice": 114,
+                "Zlín": 293,
+                "České Budějovice": 245,
+                "Jihlava": 218,
+                "Karlovy Vary": 300
+            }
+        },
+        {
+            "name": "Náchod",
+            "population": 19827,
+            "connections": {
+                "Praha": 141,
+                "Brno": 161,
+                "Ostrava": 207,
+                "Plzeň": 235,
+                "Liberec": 170,
+                "Olomouc": 141,
+                "Ústí nad Labem": 219,
+                "Hradec Králové": 52,
+                "Pardubice": 73,
+                "Zlín": 222,
+                "České Budějovice": 262,
+                "Jihlava": 241,
+                "Karlovy Vary": 371
+            }
+        },
+        {
+            "name": "Rychnov nad Kněžnou",
+            "population": 11420,
+            "connections": {
+                "Praha": 141,
+                "Brno": 151,
+                "Ostrava": 198,
+                "Plzeň": 235,
+                "Liberec": 228,
+                "Olomouc": 130,
+                "Ústí nad Labem": 251,
+                "Hradec Králové": 45,
+                "Pardubice": 85,
+                "Zlín": 207,
+                "České Budějovice": 286,
+                "Jihlava": 230,
+                "Karlovy Vary": 377
+            }
+        },
+        {
+            "name": "Pardubice",
+            "population": 92319,
+            "connections": {
+                "Praha": 59,
+                "Brno": 93,
+                "Ostrava": 145,
+                "Plzeň": 153,
+                "Liberec": 166,
+                "Olomouc": 70,
+                "Ústí nad Labem": 149,
+                "Hradec Králové": 17,
+                "Pardubice": 0,
+                "Zlín": 133,
+                "České Budějovice": 171,
+                "Jihlava": 139,
+                "Karlovy Vary": 274
+            }
+        },
+        {
+            "name": "Dvůr Králové nad Labem",
+            "population": 15322,
+            "connections": {
+                "Praha": 124,
+                "Brno": 165,
+                "Ostrava": 209,
+                "Plzeň": 236,
+                "Liberec": 115,
+                "Olomouc": 131,
+                "Ústí nad Labem": 220,
+                "Hradec Králové": 27,
+                "Pardubice": 48,
+                "Zlín": 215,
+                "České Budějovice": 237,
+                "Jihlava": 200,
+                "Karlovy Vary": 356
+            }
+        },
+        {
+            "name": "Ústí nad Orlicí",
+            "population": 14011,
+            "connections": {
+                "Praha": 85,
+                "Brno": 76,
+                "Ostrava": 124,
+                "Plzeň": 176,
+                "Liberec": 207,
+                "Olomouc": 49,
+                "Ústí nad Labem": 192,
+                "Hradec Králové": 61,
+                "Pardubice": 24,
+                "Zlín": 117,
+                "České Budějovice": 215,
+                "Jihlava": 178,
+                "Karlovy Vary": 285
+            }
+        },
+        {
+            "name": "Boskovice",
+            "population": 12508,
+            "connections": {
+                "Praha": 138,
+                "Brno": 43,
+                "Ostrava": 209,
+                "Plzeň": 297,
+                "Liberec": 272,
+                "Olomouc": 125,
+                "Ústí nad Labem": 261,
+                "Hradec Králové": 144,
+                "Pardubice": 81,
+                "Zlín": 198,
+                "České Budějovice": 278,
+                "Jihlava": 201,
+                "Karlovy Vary": 406
+            }
+        },
+        {
+            "name": "Holešov",
+            "population": 11616,
+            "connections": {
+                "Praha": 190,
+                "Brno": 104,
+                "Ostrava": 108,
+                "Plzeň": 283,
+                "Liberec": 338,
+                "Olomouc": 37,
+                "Ústí nad Labem": 299,
+                "Hradec Králové": 161,
+                "Pardubice": 126,
+                "Zlín": 47,
+                "České Budějovice": 287,
+                "Jihlava": 267,
+                "Karlovy Vary": 392
+            }
+        },
+        {
+            "name": "Zlín",
+            "population": 74684,
+            "connections": {
+                "Praha": 210,
+                "Brno": 106,
+                "Ostrava": 102,
+                "Plzeň": 305,
+                "Liberec": 362,
+                "Olomouc": 60,
+                "Ústí nad Labem": 321,
+                "Hradec Králové": 175,
+                "Pardubice": 150,
+                "Zlín": 0,
+                "České Budějovice": 331,
+                "Jihlava": 261,
+                "Karlovy Vary": 416
+            }
+        },
+        {
+            "name": "Otrokovice",
+            "population": 17401,
+            "connections": {
+                "Praha": 187,
+                "Brno": 88,
+                "Ostrava": 72,
+                "Plzeň": 272,
+                "Liberec": 322,
+                "Olomouc": 32,
+                "Ústí nad Labem": 289,
+                "Hradec Králové": 150,
+                "Pardubice": 119,
+                "Zlín": 13,
+                "České Budějovice": 306,
+                "Jihlava": 214,
+                "Karlovy Vary": 381
+            }
+        },
+        {
+            "name": "Bruntál",
+            "population": 15037,
+            "connections": {
+                "Praha": 233,
+                "Brno": 184,
+                "Ostrava": 83,
+                "Plzeň": 324,
+                "Liberec": 377,
+                "Olomouc": 78,
+                "Ústí nad Labem": 325,
+                "Hradec Králové": 231,
+                "Pardubice": 169,
+                "Zlín": 149,
+                "České Budějovice": 375,
+                "Jihlava": 350,
+                "Karlovy Vary": 433
+            }
+        },
+        {
+            "name": "Frýdek-Místek",
+            "population": 53590,
+            "connections": {
+                "Praha": 233,
+                "Brno": 175,
+                "Ostrava": 33,
+                "Plzeň": 324,
+                "Liberec": 379,
+                "Olomouc": 95,
+                "Ústí nad Labem": 311,
+                "Hradec Králové": 198,
+                "Pardubice": 170,
+                "Zlín": 153,
+                "České Budějovice": 355,
+                "Jihlava": 338,
+                "Karlovy Vary": 463
+            }
+        },
+        {
+            "name": "Kopřivnice",
+            "population": 21374,
+            "connections": {
+                "Praha": 225,
+                "Brno": 153,
+                "Ostrava": 37,
+                "Plzeň": 332,
+                "Liberec": 359,
+                "Olomouc": 84,
+                "Ústí nad Labem": 318,
+                "Hradec Králové": 199,
+                "Pardubice": 163,
+                "Zlín": 126,
+                "České Budějovice": 335,
+                "Jihlava": 296,
+                "Karlovy Vary": 441
+            }
+        },
+        {
+            "name": "Hlučín",
+            "population": 13352,
+            "connections": {
+                "Praha": 283,
+                "Brno": 213,
+                "Ostrava": 80,
+                "Plzeň": 392,
+                "Liberec": 447,
+                "Olomouc": 142,
+                "Ústí nad Labem": 376,
+                "Hradec Králové": 266,
+                "Pardubice": 221,
+                "Zlín": 190,
+                "České Budějovice": 393,
+                "Jihlava": 436,
+                "Karlovy Vary": 501
+            }
+        },
+        {
+            "name": "Hranice na Moravě",
+            "population": 17969,
+            "connections": {
+                "Praha": 167,
+                "Brno": 104,
+                "Ostrava": 33,
+                "Plzeň": 261,
+                "Liberec": 271,
+                "Olomouc": 28,
+                "Ústí nad Labem": 247,
+                "Hradec Králové": 139,
+                "Pardubice": 104,
+                "Zlín": 71,
+                "České Budějovice": 272,
+                "Jihlava": 247,
+                "Karlovy Vary": 370
+            }
+        }
+    ]
+}

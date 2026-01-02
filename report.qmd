@@ -1,0 +1,97 @@
+---
+title: "Peripheries"
+format: html
+bibliography: references.bib
+---
+
+## Úvod
+
+Nic se tady neděje, zastavil se čas,
+Nekonečná smyčka, co dokáže zlomit vaz.
+Nuda na tebe číhá za každým rohem,
+Benzínce s non-stop provozem řekni rovnou sbohem…
+
+Tak rappuje o své rodné vsi Žihle interpret Skeli a pojmenovává tím rozšířený sentiment vystihující život mimo velká města. Tato práce se zaobírá právě místy, kde se zdánlivě zastavil čas - konkrétně bude pojednávat o malých českých městech v periferiích.
+
+Periferie označuje oblast vzdálenou centru, definice periferie v sociologickém slovníku také hovoří o "přechodu mezi městem a venkovem" [@sociologicka_encyklopedie]. Ve veřejném diskurzu se o periferii často mluví v kontextu různých znevýhodnění a deprivací, poukazuje se na ztížené životní podmínky obyvatel, horší ekonomickou situaci, špatný přístup ke zdravotnickým službám a vzdělání a s tím spojený odchod mladých lidí do center.
+
+V Českém kontextu se v souvislosti s tímto pojmem často hovoří o příhraniční oblasti zvané Sudety. Zavedeným pojmem je rovněž termín "vnitřní periferie", který označuje oblasti na hranicích jednotlivých krajů, které jsou vzdálené krajským městům a často vykazují výše popsané fenomény spojované s periferií. Jedná se tedy o jakési "vnitřní Sudety" [@vnitrni_periferie].
+
+I v souvislosti s letošními volbami do Poslanecké sněmovně se
+
+řada analýz [@babis1, @seznam] zabývala otázkou, zda periferie vykazují jisté společné znaky co se týče voličským preferencí. Jedna z datových analýz iRozhlasu například popisuje fenomén, kdy hnutí ANO v řadě oblastech vnitřní periferie výrazně posílilo, zatímco (možná poněkud překvapivě) hnutí stačilo naopak v těchto oblastech oslabilo [@babis1].
+
+XX
+Motivován těmito okolnostmi jsem se rozhodl na otázku periferií a jejich sociálních znaků podívat optikou jednoho konkrétního parametru, a to sice dostupnosti vlakovou dopravou. Vlaková síť v Česku je DŮLEŽITÝ XXX ZDROJ, PROTO BYLA VYBRÁNA JAKO INTERPRETAČNÍ NÁSTROJ. Cílem této práce je zodpovědět otázku, zda odlehlost od center, uvažujeme-li spojení vlakovou sítí, je korelována s vyšším podílem odevzdaných hlasů v Poslanecké Sněmovní pro konkrétní politické subjekty, případně zda v kombinaci s dalšími sociodemografickými parametry XXX dokážeme predikovat výsledky voleb v daném městě. Objektem zkoumání budou středně velká města, která by intuitivně mohla být periferní, konkrétně města s populací nad 10000 obyvatel. Zároveň z analýzy vyřadíme města krajská, neboť neodpovídají našemu chápání periferie jako "přechod mezi městem a venkovem". Naše hlavní výzkumná otázka bude, zda vzdálenost od center souvisí s volebními výsledky. Tento pojem budeme chápat na více úrovních, nejprve jako krajské město, poté jako jedno ze tří hlavních center republiky, tj. Praha, Brno, Ostrava.
+
+
+## Dataset
+
+
+### Populační dataset
+
+První část datasetu by měla obsahovat co nejaktuálnější populaci českých měst a obcí. Tomuto zadání odpovídá dataset Českého statistického úřadu (ČSÚ) s počty obyvatel k 1. 1. 2025 [@populace], který jsme převedli z .xls do .csv. 
+
+### Vlaková spojení
+Nepodařilo se nám najít dataset, který by obsahoval matici spojení vlakovou dopravou mezi městy ČR - pravděpodobně protože takový dataset neexistuje a bylo by vzhledem k frekvenci výluk a změn v železniční síti obtížné nebo nemožné jej vytvořit.
+
+Rozhodli jsme se tedy tato data sami získat s vědomím toho, že se jedná pouze o snapshot v čase, který brzy může přestat být aktuální. Cílem bylo získat matici aktuálních spojení, kde pro každé z vybraných měst bude zaznamenáno, jak rychle se z něj lze dostat vlakem do všech 13 krajských měst a Prahy.
+
+Za účelem extrakce těchto dat jsme použili veřejné API aplikace IDOS, která slouží k vyhledávání spojení veřejnou dopravou [@idosAPI] (spíše než o typické REST API, jaké by si čtenář mohl představit, se jednalo o posílání HTTP requestů na správně sestavenou URL adresu a následné parsování výsledků).
+
+Spojení jsme vyhledávali v pracovním dni s datem 1. 12. 2025. Výběr je to do jisté míry náhodný, uvědomujeme si, že bude zatížený aktuálními výlukami a dalšími praktickými okolnostmi, nicméně jiný způsob pokrývající delší časové období by vzhledem k množství vyžadovaných requestů a patřičných intervalech mezi nimi trval neúnosně dlouho. Pro vybraná dvě města jsme porovnali délku všech cest, co se mezi nimi ten den uskutečnily, a vybrali délku té nejkratší.
+
+### Volební dataset
+Třetí část datasetu by měla poskytnout výsledky voleb do Poslanecké sněmovny z roku 2025 ve vybraných městech. Za tímto účelem jsme použili další dataset ČSÚ, který poskytuje výslekdy voleb v jednotlivých okrscích a městech [@election]. Zkombinovali jsme data z jednotlivých okrsků a vyparsovali z formátu .xml do .csv. Dataset obsahuje procentuální i absolutní počty odevzdaných hlasů pro 26 kandidujících stran a hnutí.
+
+### Výsledný dataset
+Jednotlivé datasety jsme poté zkombinovali do jednoho výsledného, a to sice joinem na jménu města. Výsledný dataset tedy obsahuje demografická data, data s vlakovými spojeními a data s výsledky voleb.
+
+Proces tvorby datasetu si zaslouží několik komentářů:
+- jak je známo, jména českých měst a obcí rozhodně nejsou unikátní. Graf XXX TODO XXX ukazuje nečastější opakované výskyty názvů českých měst a obcí. Důležitá je nicméně informace, že v ČR neexistují dvě města nad 10000 obyvatel, která by měla stejné jméno. V populačním datasetu tedy pro každý název města zachováme pouze to město s nejvíce obyvateli, tím zajistíme unikátnost názvů, nepřijdeme o žádná data pro analýzu a můžeme provést zmíněný join.
+- Dvě města mají ve vlakovém datasetu missing values pro všechna spojení. Těmito městy je Orlová a Jesenice a důvodem je fakt, že ani jedno z těchto dvou měst není součástí železniční sítě. Tento fakt okomentujeme v interpretační části reportu. Z analytické části je vynecháme.
+- Aby šlo pomocí IDOS API vyhledat spojení, přejmenovali jsme město Krupka názvem jeho funčkní železniční stanice Krupka Bohosudov, stejně tak město Hranice na Hranice na Moravě (v opačném případě IDOS nevrací výslekdy).
+- Populační a volební dataset pochází od ČSÚ a tedy jsou ve velmi vysoké kvalitě, nemají žádné chybějící hodnoty a nejsou ani žádným jiným způsobem nekompletní.
+
+#### Popis výsledného datasetu
+
+
+
+
+## Explorace dat
+
+Nejprve se podíme na to, jak moc jsou vybraná města periferní. Nejprve zobrazíme distribuci vzdáleností od nejbližšího krajského města, poté také zobrazíme distribuci vzdáleností od velkých center ČR - Ostravy, Prahy a Brna. 
+
+
+XX Co vidíme XX, nezahrnujeme Krajská
+Nejvíc periferní
+
+Mohlo by nás napadnout, že menší města budou vzdálenejší centrům, zobrazme proté scatterploty, které popisují vzdálenost od centra vs populaci, opět dva pro naše dvojí pojetí centra.
+
+XX Co vidíme XX, nezahrnujeme krajská
+
+XX Také by nás mohlo zajímat, podívat se na to, jaké krajské město je nejvíce "odlehlé" ve smyslu kumulativní vzdálenosti od zbylých měst, a jaké naopak nejcentrélnější.
+
+XX Co vidíme, zahrnujeme krajská
+
+Také by nás mohlo zajímat, jaké město je nejvzdálenější a nejbližší ve smyslu kumulativní vzdálenosti všem 14 městům, a poté totéž, nýbrž ke třem hlavním centrům:
+
+Tutéž otázku si položmě pro krajská města:
+
+
+
+
+Here is a Python code cell:
+
+```{python}
+import os
+os.cpu_count()
+```
+
+## Equation
+
+Use LaTeX to write equations:
+
+$$
+\chi' = \sum_{i=1}^n k_i s_i^2
+$$
