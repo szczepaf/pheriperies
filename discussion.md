@@ -41,3 +41,34 @@ Motivován těmito okolnostmi jsem se rozhodl na otázku periferií podívat opt
 
 Josef Bernard Nic se tady neděje
 
+
+Dalsi testy:
+
+a) Multiple linear regression (OLS)
+Add more predictors, e.g.:
+
+distance to regional city
+
+population size / log(population)
+
+turnout (UCAST_PROC)
+
+region fixed effects (dummy vars for each regional city)
+
+This lets you see whether “distance” still matters once you control for urbanisation, region, etc.
+
+b) Polynomial / non-linear terms
+If the effect of distance is not linear:
+
+add 
+distance
+2
+distance
+2
+
+or use splines (e.g. patsy / statsmodels with spline terms)
+
+This tests, for example, whether the relationship is flat near the city and only rises in peripheral areas.
+
+
+AVG age?
